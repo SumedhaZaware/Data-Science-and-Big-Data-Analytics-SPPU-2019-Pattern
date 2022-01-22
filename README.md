@@ -1,6 +1,7 @@
 # Data-Science-and-Big-Data-Analytics-SPPU-2019-Pattern
 This repository contains the assignments💻 of Data Science and Big Data Analytics provided by Savitribai Phule Pune University(SPPU)🎓
 
+## Group A- Data Science
 **Assignment 1**
 
 Perform the following operations using Python on any open source dataset (e.g., data.csv)
