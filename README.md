@@ -27,25 +27,25 @@ explain everything that you do to import/read/scrape the data set.<p>
 
 **Assignment 2**
 
-Create an “Academic performance” dataset of students and perform the following operations
-using Python.
-1. Scan all variables for missing values and inconsistencies. If there are missing values
-and/or inconsistencies, use any of the suitable techniques to deal with them.
-2. Scan all numeric variables for outliers. If there are outliers, use any of the suitable
-techniques to deal with them.
-3. Apply data transformations on at least one of the variables. The purpose of this
+<p align="justify">Create an “Academic performance” dataset of students and perform the following operations
+using Python.<p>
+<p align="justify">1. Scan all variables for missing values and inconsistencies. If there are missing values
+and/or inconsistencies, use any of the suitable techniques to deal with them.<p>
+<p align="justify">2. Scan all numeric variables for outliers. If there are outliers, use any of the suitable
+techniques to deal with them.<p>
+<p align="justify">3. Apply data transformations on at least one of the variables. The purpose of this
 transformation should be one of the following reasons: to change the scale for better
 understanding of the variable, to convert a non-linear relation into a linear one, or to
-decrease the skewness and convert the distribution into a normal distribution.
+decrease the skewness and convert the distribution into a normal distribution.<p>
 
 **Assignment 3**
 
-Perform the following operations on any open source dataset
-1. Provide summary statistics (mean, median, minimum, maximum, standard deviation) for
+<p align="justify">Perform the following operations on any open source dataset<p>
+<p align="justify">1. Provide summary statistics (mean, median, minimum, maximum, standard deviation) for
 a dataset with numeric variables grouped by one of the qualitative variable. 
 For example, if your categorical variable is age groups and
 quantitative variable is income, then provide summary statistics of income grouped by
 the age groups. Create a list that contains a numeric value for each response to the
-categorical variable.
-2. Write a Python program to display some basic statistical details of the species of ‘Iris-setosa’, ‘Iris-versicolor’ and ‘Iris-
-versicolor’ of iris.csv dataset.
+categorical variable.<p>
+<p align="justify">2. Write a Python program to display some basic statistical details of the species of ‘Iris-setosa’, ‘Iris-versicolor’ and ‘Iris-
+versicolor’ of iris.csv dataset.<p>
