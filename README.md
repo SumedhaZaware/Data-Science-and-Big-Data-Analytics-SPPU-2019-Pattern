@@ -49,3 +49,10 @@ the age groups. Create a list that contains a numeric value for each response to
 categorical variable.<p>
 <p align="justify">2. Write a Python program to display some basic statistical details of the species of ‘Iris-setosa’, ‘Iris-versicolor’ and ‘Iris-
 versicolor’ of iris.csv dataset.<p>
+
+**Assignment 4**
+
+<p align="justify"> Create a Linear Regression Model using Python/R to predict home prices using Boston Housing
+Dataset (https://www.kaggle.com/c/boston-housing). The Boston Housing dataset contains
+information about various houses in Boston through different parameters. There are 506 samples
+and 14 feature variables in this dataset. The objective is to predict the value of prices of the house using the given features. </p>
