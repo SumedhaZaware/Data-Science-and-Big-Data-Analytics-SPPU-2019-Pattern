@@ -36,7 +36,7 @@ This repository contains the assignments💻 of Data Science and Big Data Analyt
 <p align="justify"> Create a Linear Regression Model using Python/R to predict home prices using Boston Housing Dataset. The Boston Housing dataset contains
 information about various houses in Boston through different parameters. There are 506 samples and 14 feature variables in this dataset. The objective is to predict the value of prices of the house using the given features. </p>
 
-**Assignment-5**
+**Assignment 5**
 
 <p align="justify"> 1. Implement logistic regression using Python/R to perform classification on Social_Network_Ads.csv dataset.</p>
 <p align="justify"> 2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.</p>
