@@ -40,3 +40,8 @@ information about various houses in Boston through different parameters. There a
 
 <p align="justify"> 1. Implement logistic regression using Python/R to perform classification on Social_Network_Ads.csv dataset.</p>
 <p align="justify"> 2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.</p>
+
+**Assignment 6**
+
+<p align="justify"> 1. Implement Simple Naïve Bayes classification algorithm using Python/R on iris.csv dataset.</p>
+<p align="justify"> 2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, precision, recall on the given dataset.</p>
