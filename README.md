@@ -45,3 +45,9 @@ information about various houses in Boston through different parameters. There a
 
 <p align="justify"> 1. Implement Simple Naïve Bayes classification algorithm using Python/R on iris.csv dataset.</p>
 <p align="justify"> 2. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, precision, recall on the given dataset.</p>
+
+**Assignment 7**
+
+<p align="justify"> 1. Extract Sample document and apply following document preprocessing methods: Tokenization, POS Tagging, stop words removal, Stemming and Lemmatization.</p>
+<p align="justify"> 2. Create representation of document by calculating Term Frequency and Inverse Document
+Frequency.</p>
