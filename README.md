@@ -73,3 +73,14 @@ information about various houses in Boston through different parameters. There a
 **Assignment 1**
 
 Write a simple program in SCALA using Apache Spark framework
+
+## Group C- Mini Projects
+**Covid Vaccination Analysis**
+
+<p align="justify">Use the following covid_vaccine_statewise.csv dataset and perform following analytics on the given dataset
+*https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv*</p>
+<p align="justify">a. Describe the dataset</p>
+<p align="justify">b. Number of persons state wise vaccinated for first dose in India</p>
+<p align="justify">c. Number of persons state wise vaccinated for second dose in India</p>
+<p align="justify">d. Number of Males vaccinated</p>
+<p align="justify">e. Number of females vaccinated</p>
