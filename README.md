@@ -68,3 +68,8 @@ information about various houses in Boston through different parameters. There a
 <p align="justify">2. Create a histogram for each feature in the dataset to illustrate the feature distributions.</p>
 <p align="justify">3. Create a box plot for each feature in the dataset.</p>
 <p align="justify">4. Compare distributions and identify outliers.</p>
+
+## Group B- Big Data Analytics
+**Assignment 1**
+
+Write a simple program in SCALA using Apache Spark framework
