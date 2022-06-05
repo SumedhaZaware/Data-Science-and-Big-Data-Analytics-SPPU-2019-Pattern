@@ -60,3 +60,11 @@ information about various houses in Boston through different parameters. There a
 
 <p align="justify"> 1. Use the inbuilt dataset 'titanic' as used in the above problem. Plot a box plot for distribution of age with respect to each gender along with the information about whether they survived or not. (Column names : 'sex' and 'age')</p>
 <p align="justify">2. Write observations on the inference from the above statistics.</p>
+
+**Assignment 10**
+
+<p align="justify">Download the Iris flower dataset or any other dataset into a DataFrame. Scan the dataset and give the inference as:</p>
+<p align="justify">1. List down the features and their types (e.g., numeric, nominal) available in the dataset.</p>
+<p align="justify">2. Create a histogram for each feature in the dataset to illustrate the feature distributions.</p>
+<p align="justify">3. Create a box plot for each feature in the dataset.</p>
+<p align="justify">4. Compare distributions and identify outliers.</p>
